@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P33b3MostrarOrdenado\P33b3MostrarOrdenado\bin\Debug\P33b3MostrarOrdenado.exe.config
+C:\Users\Profesor\source\repos\P33b3MostrarOrdenado\P33b3MostrarOrdenado\bin\Debug\P33b3MostrarOrdenado.exe
+C:\Users\Profesor\source\repos\P33b3MostrarOrdenado\P33b3MostrarOrdenado\bin\Debug\P33b3MostrarOrdenado.pdb
+C:\Users\Profesor\source\repos\P33b3MostrarOrdenado\P33b3MostrarOrdenado\obj\Debug\P33b3MostrarOrdenado.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P33b3MostrarOrdenado\P33b3MostrarOrdenado\obj\Debug\P33b3MostrarOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P33b3MostrarOrdenado\P33b3MostrarOrdenado\obj\Debug\P33b3MostrarOrdenado.exe
+C:\Users\Profesor\source\repos\P33b3MostrarOrdenado\P33b3MostrarOrdenado\obj\Debug\P33b3MostrarOrdenado.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P33a Escribir Datos en Txt con Separadores", "P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores.csproj", "{AEF5FCFB-3B04-4288-AFD6-724443045760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF5FCFB-3B04-4288-AFD6-724443045760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF5FCFB-3B04-4288-AFD6-724443045760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF5FCFB-3B04-4288-AFD6-724443045760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF5FCFB-3B04-4288-AFD6-724443045760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC0448C-5856-483D-87E6-87F3439C1CBA}
+	EndGlobalSection
+EndGlobal

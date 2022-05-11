@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P41a1AlumnosConHerencia\P41a1AlumnosConHerencia\obj\Debug\P41a1AlumnosConHerencia.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P41a1AlumnosConHerencia\P41a1AlumnosConHerencia\obj\Debug\P41a1AlumnosConHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P41a1AlumnosConHerencia\P41a1AlumnosConHerencia\bin\Debug\P41a1AlumnosConHerencia.exe.config
+C:\Users\Profesor\source\repos\P41a1AlumnosConHerencia\P41a1AlumnosConHerencia\bin\Debug\P41a1AlumnosConHerencia.exe
+C:\Users\Profesor\source\repos\P41a1AlumnosConHerencia\P41a1AlumnosConHerencia\bin\Debug\P41a1AlumnosConHerencia.pdb
+C:\Users\Profesor\source\repos\P41a1AlumnosConHerencia\P41a1AlumnosConHerencia\obj\Debug\P41a1AlumnosConHerencia.exe
+C:\Users\Profesor\source\repos\P41a1AlumnosConHerencia\P41a1AlumnosConHerencia\obj\Debug\P41a1AlumnosConHerencia.pdb

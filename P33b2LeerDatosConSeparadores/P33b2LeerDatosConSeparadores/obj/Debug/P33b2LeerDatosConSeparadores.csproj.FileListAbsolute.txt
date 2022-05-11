@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P33b2LeerDatosConSeparadores\P33b2LeerDatosConSeparadores\bin\Debug\P33b2LeerDatosConSeparadores.exe.config
+C:\Users\Profesor\source\repos\P33b2LeerDatosConSeparadores\P33b2LeerDatosConSeparadores\bin\Debug\P33b2LeerDatosConSeparadores.exe
+C:\Users\Profesor\source\repos\P33b2LeerDatosConSeparadores\P33b2LeerDatosConSeparadores\bin\Debug\P33b2LeerDatosConSeparadores.pdb
+C:\Users\Profesor\source\repos\P33b2LeerDatosConSeparadores\P33b2LeerDatosConSeparadores\obj\Debug\P33b2LeerDatosConSeparadores.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P33b2LeerDatosConSeparadores\P33b2LeerDatosConSeparadores\obj\Debug\P33b2LeerDatosConSeparadores.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P33b2LeerDatosConSeparadores\P33b2LeerDatosConSeparadores\obj\Debug\P33b2LeerDatosConSeparadores.exe
+C:\Users\Profesor\source\repos\P33b2LeerDatosConSeparadores\P33b2LeerDatosConSeparadores\obj\Debug\P33b2LeerDatosConSeparadores.pdb

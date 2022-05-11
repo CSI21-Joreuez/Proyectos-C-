@@ -1,0 +1,7 @@
+D:\xProg\Ev4 Consola\xCostesPersonalTienda2 (id alfanumérico)\_xCostesPersonalTienda2 (id alfanumérico)\Apellido1_Nombre\CostesPersonalTienda2\bin\Debug\CostesPersonalTienda.exe.config
+D:\xProg\Ev4 Consola\xCostesPersonalTienda2 (id alfanumérico)\_xCostesPersonalTienda2 (id alfanumérico)\Apellido1_Nombre\CostesPersonalTienda2\bin\Debug\CostesPersonalTienda.exe
+D:\xProg\Ev4 Consola\xCostesPersonalTienda2 (id alfanumérico)\_xCostesPersonalTienda2 (id alfanumérico)\Apellido1_Nombre\CostesPersonalTienda2\bin\Debug\CostesPersonalTienda.pdb
+D:\xProg\Ev4 Consola\xCostesPersonalTienda2 (id alfanumérico)\_xCostesPersonalTienda2 (id alfanumérico)\Apellido1_Nombre\CostesPersonalTienda2\obj\Debug\CostesPersonalTienda2.csprojAssemblyReference.cache
+D:\xProg\Ev4 Consola\xCostesPersonalTienda2 (id alfanumérico)\_xCostesPersonalTienda2 (id alfanumérico)\Apellido1_Nombre\CostesPersonalTienda2\obj\Debug\CostesPersonalTienda2.csproj.CoreCompileInputs.cache
+D:\xProg\Ev4 Consola\xCostesPersonalTienda2 (id alfanumérico)\_xCostesPersonalTienda2 (id alfanumérico)\Apellido1_Nombre\CostesPersonalTienda2\obj\Debug\CostesPersonalTienda.exe
+D:\xProg\Ev4 Consola\xCostesPersonalTienda2 (id alfanumérico)\_xCostesPersonalTienda2 (id alfanumérico)\Apellido1_Nombre\CostesPersonalTienda2\obj\Debug\CostesPersonalTienda.pdb

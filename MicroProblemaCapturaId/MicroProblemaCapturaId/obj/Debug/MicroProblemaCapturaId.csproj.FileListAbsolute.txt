@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\MicroProblemaCapturaId\MicroProblemaCapturaId\bin\Debug\MicroProblemaCapturaId.exe.config
+C:\Users\Profesor\source\repos\MicroProblemaCapturaId\MicroProblemaCapturaId\bin\Debug\MicroProblemaCapturaId.exe
+C:\Users\Profesor\source\repos\MicroProblemaCapturaId\MicroProblemaCapturaId\bin\Debug\MicroProblemaCapturaId.pdb
+C:\Users\Profesor\source\repos\MicroProblemaCapturaId\MicroProblemaCapturaId\obj\Debug\MicroProblemaCapturaId.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\MicroProblemaCapturaId\MicroProblemaCapturaId\obj\Debug\MicroProblemaCapturaId.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\MicroProblemaCapturaId\MicroProblemaCapturaId\obj\Debug\MicroProblemaCapturaId.exe
+C:\Users\Profesor\source\repos\MicroProblemaCapturaId\MicroProblemaCapturaId\obj\Debug\MicroProblemaCapturaId.pdb

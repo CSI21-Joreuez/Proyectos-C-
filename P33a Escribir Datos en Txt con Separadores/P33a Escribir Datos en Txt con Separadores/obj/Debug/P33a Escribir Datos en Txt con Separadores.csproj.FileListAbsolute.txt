@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores\obj\Debug\P33a Escribir Datos en Txt con Separadores.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores\obj\Debug\P33a Escribir Datos en Txt con Separadores.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores\bin\Debug\P33a Escribir Datos en Txt con Separadores.exe.config
+C:\Users\Profesor\source\repos\P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores\bin\Debug\P33a Escribir Datos en Txt con Separadores.exe
+C:\Users\Profesor\source\repos\P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores\bin\Debug\P33a Escribir Datos en Txt con Separadores.pdb
+C:\Users\Profesor\source\repos\P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores\obj\Debug\P33a Escribir Datos en Txt con Separadores.exe
+C:\Users\Profesor\source\repos\P33a Escribir Datos en Txt con Separadores\P33a Escribir Datos en Txt con Separadores\obj\Debug\P33a Escribir Datos en Txt con Separadores.pdb

@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P41b4 Paralelogramo\P41b4 Paralelogramo\bin\Debug\P41b4 Paralelogramo.exe.config
+C:\Users\Profesor\source\repos\P41b4 Paralelogramo\P41b4 Paralelogramo\bin\Debug\P41b4 Paralelogramo.exe
+C:\Users\Profesor\source\repos\P41b4 Paralelogramo\P41b4 Paralelogramo\bin\Debug\P41b4 Paralelogramo.pdb
+C:\Users\Profesor\source\repos\P41b4 Paralelogramo\P41b4 Paralelogramo\obj\Debug\P41b4 Paralelogramo.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P41b4 Paralelogramo\P41b4 Paralelogramo\obj\Debug\P41b4 Paralelogramo.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P41b4 Paralelogramo\P41b4 Paralelogramo\obj\Debug\P41b4 Paralelogramo.exe
+C:\Users\Profesor\source\repos\P41b4 Paralelogramo\P41b4 Paralelogramo\obj\Debug\P41b4 Paralelogramo.pdb

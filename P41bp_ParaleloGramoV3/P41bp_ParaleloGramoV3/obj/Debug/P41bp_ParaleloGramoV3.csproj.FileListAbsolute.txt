@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P41bp_ParaleloGramoV3\P41bp_ParaleloGramoV3\bin\Debug\P41bp_ParaleloGramoV3.exe.config
+C:\Users\Profesor\source\repos\P41bp_ParaleloGramoV3\P41bp_ParaleloGramoV3\bin\Debug\P41bp_ParaleloGramoV3.exe
+C:\Users\Profesor\source\repos\P41bp_ParaleloGramoV3\P41bp_ParaleloGramoV3\bin\Debug\P41bp_ParaleloGramoV3.pdb
+C:\Users\Profesor\source\repos\P41bp_ParaleloGramoV3\P41bp_ParaleloGramoV3\obj\Debug\P41bp_ParaleloGramoV3.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P41bp_ParaleloGramoV3\P41bp_ParaleloGramoV3\obj\Debug\P41bp_ParaleloGramoV3.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P41bp_ParaleloGramoV3\P41bp_ParaleloGramoV3\obj\Debug\P41bp_ParaleloGramoV3.exe
+C:\Users\Profesor\source\repos\P41bp_ParaleloGramoV3\P41bp_ParaleloGramoV3\obj\Debug\P41bp_ParaleloGramoV3.pdb

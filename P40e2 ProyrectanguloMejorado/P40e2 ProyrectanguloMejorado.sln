@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P40e2 ProyrectanguloMejorado", "P40e2 ProyrectanguloMejorado\P40e2 ProyrectanguloMejorado.csproj", "{EB7A43ED-41B1-4D6F-8AC7-562006552410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7A43ED-41B1-4D6F-8AC7-562006552410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7A43ED-41B1-4D6F-8AC7-562006552410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7A43ED-41B1-4D6F-8AC7-562006552410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7A43ED-41B1-4D6F-8AC7-562006552410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6399D54-BE6B-4151-B0BC-DD51486DB824}
+	EndGlobalSection
+EndGlobal

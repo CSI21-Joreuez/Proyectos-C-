@@ -1,0 +1,14 @@
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda\CostesPersonalTienda\bin\Debug\CostesPersonalTienda.exe.config
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda\CostesPersonalTienda\bin\Debug\CostesPersonalTienda.exe
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda\CostesPersonalTienda\bin\Debug\CostesPersonalTienda.pdb
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.exe
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.pdb
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda1 (Id numérico) ok\CostesPersonalTienda\bin\Debug\CostesPersonalTienda.exe.config
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda1 (Id numérico) ok\CostesPersonalTienda\bin\Debug\CostesPersonalTienda.exe
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda1 (Id numérico) ok\CostesPersonalTienda\bin\Debug\CostesPersonalTienda.pdb
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda1 (Id numérico) ok\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda1 (Id numérico) ok\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda1 (Id numérico) ok\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.exe
+C:\Users\Alberto\Desktop\xCoste PersonalTienda 20-21\CostesPersonalTienda1 (Id numérico) ok\CostesPersonalTienda\obj\Debug\CostesPersonalTienda.pdb

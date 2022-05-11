@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\p34a_EscribirRegistros\p34a_EscribirRegistros\bin\Debug\p34a_EscribirRegistros.exe.config
+C:\Users\Profesor\source\repos\p34a_EscribirRegistros\p34a_EscribirRegistros\bin\Debug\p34a_EscribirRegistros.exe
+C:\Users\Profesor\source\repos\p34a_EscribirRegistros\p34a_EscribirRegistros\bin\Debug\p34a_EscribirRegistros.pdb
+C:\Users\Profesor\source\repos\p34a_EscribirRegistros\p34a_EscribirRegistros\obj\Debug\p34a_EscribirRegistros.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\p34a_EscribirRegistros\p34a_EscribirRegistros\obj\Debug\p34a_EscribirRegistros.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\p34a_EscribirRegistros\p34a_EscribirRegistros\obj\Debug\p34a_EscribirRegistros.exe
+C:\Users\Profesor\source\repos\p34a_EscribirRegistros\p34a_EscribirRegistros\obj\Debug\p34a_EscribirRegistros.pdb

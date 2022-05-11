@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\40a_ProyectoCliente\40a_ProyectoCliente\obj\Debug\40a_ProyectoCliente.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\40a_ProyectoCliente\40a_ProyectoCliente\obj\Debug\40a_ProyectoCliente.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\40a_ProyectoCliente\40a_ProyectoCliente\bin\Debug\40a_ProyectoCliente.exe.config
+C:\Users\Profesor\source\repos\40a_ProyectoCliente\40a_ProyectoCliente\bin\Debug\40a_ProyectoCliente.exe
+C:\Users\Profesor\source\repos\40a_ProyectoCliente\40a_ProyectoCliente\bin\Debug\40a_ProyectoCliente.pdb
+C:\Users\Profesor\source\repos\40a_ProyectoCliente\40a_ProyectoCliente\obj\Debug\40a_ProyectoCliente.exe
+C:\Users\Profesor\source\repos\40a_ProyectoCliente\40a_ProyectoCliente\obj\Debug\40a_ProyectoCliente.pdb

@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P35c_Peliculas\P35c_Peliculas\bin\Debug\P35c_Peliculas.exe.config
+C:\Users\Profesor\source\repos\P35c_Peliculas\P35c_Peliculas\bin\Debug\P35c_Peliculas.exe
+C:\Users\Profesor\source\repos\P35c_Peliculas\P35c_Peliculas\bin\Debug\P35c_Peliculas.pdb
+C:\Users\Profesor\source\repos\P35c_Peliculas\P35c_Peliculas\obj\Debug\P35c_Peliculas.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P35c_Peliculas\P35c_Peliculas\obj\Debug\P35c_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P35c_Peliculas\P35c_Peliculas\obj\Debug\P35c_Peliculas.exe
+C:\Users\Profesor\source\repos\P35c_Peliculas\P35c_Peliculas\obj\Debug\P35c_Peliculas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Profesor\source\repos\P40e1 ProyRectangulo\P40e1 ProyRectangulo\bin\Debug\P40e1 ProyRectangulo.exe.config
+C:\Users\Profesor\source\repos\P40e1 ProyRectangulo\P40e1 ProyRectangulo\bin\Debug\P40e1 ProyRectangulo.exe
+C:\Users\Profesor\source\repos\P40e1 ProyRectangulo\P40e1 ProyRectangulo\bin\Debug\P40e1 ProyRectangulo.pdb
+C:\Users\Profesor\source\repos\P40e1 ProyRectangulo\P40e1 ProyRectangulo\obj\Debug\P40e1 ProyRectangulo.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\P40e1 ProyRectangulo\P40e1 ProyRectangulo\obj\Debug\P40e1 ProyRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\P40e1 ProyRectangulo\P40e1 ProyRectangulo\obj\Debug\P40e1 ProyRectangulo.exe
+C:\Users\Profesor\source\repos\P40e1 ProyRectangulo\P40e1 ProyRectangulo\obj\Debug\P40e1 ProyRectangulo.pdb
