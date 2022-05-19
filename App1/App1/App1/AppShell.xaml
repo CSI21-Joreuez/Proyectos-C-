@@ -81,7 +81,7 @@
     <FlyoutItem Title="XamarinDemon" Icon="xFuegoAzul.jpg">
         <ShellContent Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}" />
     </FlyoutItem>
-    <FlyoutItem Title="Calulator" Icon="Calculadora.png">
+    <FlyoutItem Title="Calculator" Icon="Calculadora.png">
         <ShellContent Route="ItemsPage" ContentTemplate="{DataTemplate local:ItemsPage}" />
     </FlyoutItem>
 

@@ -11,6 +11,23 @@
       x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
       https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/data-binding/compiled-bindings
     -->
-    
-    
+
+    <StackLayout>
+        
+        <Button  Text="1" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button Text="2" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"> </Button>
+        <Button  Text="3" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button Text="4" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button  Text="5" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button Text="6" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button  Text="7" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button Text="8" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button  Text="9" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button Text="0" TextColor="#1E1EAD" BackgroundColor="#BDBDC6"></Button>
+        <Button  Text="/" TextColor="#E53612" BackgroundColor="#BDBDC6"></Button>
+        <Button Text="*" TextColor="#E53612" BackgroundColor="#BDBDC6"></Button>
+        <Button  Text="-" TextColor="#E53612" BackgroundColor="#BDBDC6"></Button>
+        <Button Text="+" TextColor="#E53612" BackgroundColor="#BDBDC6"></Button>
+        
+    </StackLayout>
 </ContentPage>
